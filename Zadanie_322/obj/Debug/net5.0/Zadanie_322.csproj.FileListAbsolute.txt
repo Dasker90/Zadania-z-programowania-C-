@@ -1,0 +1,16 @@
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\bin\Debug\net5.0\Zadanie_322.exe
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\bin\Debug\net5.0\Zadanie_322.deps.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\bin\Debug\net5.0\Zadanie_322.runtimeconfig.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\bin\Debug\net5.0\Zadanie_322.runtimeconfig.dev.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\bin\Debug\net5.0\Zadanie_322.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\bin\Debug\net5.0\ref\Zadanie_322.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\bin\Debug\net5.0\Zadanie_322.pdb
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.csproj.AssemblyReference.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.AssemblyInfoInputs.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.AssemblyInfo.cs
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.csproj.CoreCompileInputs.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\ref\Zadanie_322.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.pdb
+C:\Users\dskuras\Desktop\26052022\Zadanie_322\obj\Debug\net5.0\Zadanie_322.genruntimeconfig.cache
