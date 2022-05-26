@@ -1,0 +1,16 @@
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\bin\Debug\net5.0\Zadanie_319.exe
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\bin\Debug\net5.0\Zadanie_319.deps.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\bin\Debug\net5.0\Zadanie_319.runtimeconfig.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\bin\Debug\net5.0\Zadanie_319.runtimeconfig.dev.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\bin\Debug\net5.0\Zadanie_319.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\bin\Debug\net5.0\ref\Zadanie_319.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\bin\Debug\net5.0\Zadanie_319.pdb
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.csproj.AssemblyReference.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.AssemblyInfoInputs.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.AssemblyInfo.cs
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.csproj.CoreCompileInputs.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\ref\Zadanie_319.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.pdb
+C:\Users\dskuras\Desktop\26052022\Zadanie_319\obj\Debug\net5.0\Zadanie_319.genruntimeconfig.cache

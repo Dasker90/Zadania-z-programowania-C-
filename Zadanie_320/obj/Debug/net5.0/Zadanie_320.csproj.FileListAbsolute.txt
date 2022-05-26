@@ -1,0 +1,16 @@
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\bin\Debug\net5.0\Zadanie_320.exe
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\bin\Debug\net5.0\Zadanie_320.deps.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\bin\Debug\net5.0\Zadanie_320.runtimeconfig.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\bin\Debug\net5.0\Zadanie_320.runtimeconfig.dev.json
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\bin\Debug\net5.0\Zadanie_320.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\bin\Debug\net5.0\ref\Zadanie_320.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\bin\Debug\net5.0\Zadanie_320.pdb
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.csproj.AssemblyReference.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.AssemblyInfoInputs.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.AssemblyInfo.cs
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.csproj.CoreCompileInputs.cache
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\ref\Zadanie_320.dll
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.pdb
+C:\Users\dskuras\Desktop\26052022\Zadanie_320\obj\Debug\net5.0\Zadanie_320.genruntimeconfig.cache
