@@ -26,4 +26,4 @@ namespace Zadanie_11
         }
     }
 }
-//--
+//---
